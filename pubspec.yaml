@@ -1,6 +1,6 @@
 name: flutter_app_kit
 description: Reusable Flutter starter with auth, Play Billing, paywall, analytics. Clone, rename, ship.
-publish_to: 'none'
+publish_to: "none"
 version: 0.1.0+1
 
 environment:
@@ -71,8 +71,8 @@ dev_dependencies:
   riverpod_generator: ^2.4.3
   freezed: ^2.5.7
   json_serializable: ^6.8.0
-  custom_lint: ^0.6.7
-  riverpod_lint: ^2.3.13
+  custom_lint: ^0.7.3
+  riverpod_lint: ^2.6.3
 
   # Flavor/launcher icons / splash
   flutter_launcher_icons: ^0.14.1
